@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FramgiaStaff</string>
+    <string name="register">Register</string>
+    <string name="id_staff">ID Staff</string>
+    <string name="register_staff">Register Staff</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="email">Email</string>
+    <string name="official_working_day">Official Working Day (dd/mm/yyyy)</string>
+    <string name="location">Location Work</string>
+    <string name="id_is_empty">ID is Empty!</string>
+    <string name="email_is_empty">Email is Empty!</string>
+    <string name="please_select_type">Please select Type Employee</string>
+    <string name="please_select_working_date">Please select date working !</string>
+    <string name="div_1">Div 1</string>
+    <string name="div_2">Div 2</string>
+    <string name="div_3">Div 3</string>
+    <string name="select_type">---- Select Type Employee ----</string>
+    <string name="email_error">Invalid Email Address</string>
+</resources>
